@@ -1,0 +1,32 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: About
+  url: "about/"
+
+- title: Contact
+  url: "contact/"
+
+- title: Crypto Prices > 
+  url: https://everycoinprice.com
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+- title: Contact
+  url: "contact/"
+
+- title: Crypto Prices >
+  url: https://everycoinprices.com
+  external: true

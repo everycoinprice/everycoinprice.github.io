@@ -1,0 +1,57 @@
+title: "Everycoinprice"
+email: info@everycoinprice.com
+timezone: UTC
+baseurl: "/affiliates-jekyll-theme"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Ash
+paginate: 15
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+domain: everycoinprice.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://everycoinprice.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /everycoinprice.github.io/      # place folder name if the site is served in a subfolder
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: G-NP3F1TNLJP
+
+# Authors
+authors:
+  ash:
+    name: Ash
+    display_name: Ash
+    avatar: 'assets/images/sal.png'
+    email: ayush@everycoinprice.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "Ash writes about updates on crypto"
+  john:
+    name: John
+    display_name: John
+    avatar: 'assets/images/john.png'
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+
+# Social
+social:
+  mainsite: https://everycoinprice.com
+  twitter: https://twitter.com/_Everycoinprice
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
