@@ -428,7 +428,7 @@ He sold those entire Bitcoins for $4.2 million as an adult
 ## ASIC machines are used to mine Bitcoin in 2022
 
 ![Antminer](../assets/images/post0/antmine.png)
-[What to mine display latest ASIC miners profitability](https://whattomine.com/asic)
+[What to mine displays latest ASIC miners profitability](https://whattomine.com/asic)
 
 ASIC a.k.a Application Specific Integrated Circuit are heavy duty power hungry machines that are used to mine Bitcoins today. As mathematical complexity of mining(earning) bitcoins increases, more and more technically advanced machines would take over
 
