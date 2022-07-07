@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top 100 facts about Bitcoin in 2022"
+title:  "100 facts about Bitcoin in 2022"
 author: ash
 categories: [ bitcoin, crypto ]
 image: assets/images/bitcoin-1.png
@@ -8,10 +8,13 @@ image: assets/images/bitcoin-1.png
 
 ### What is Bitcoin?
 
-Bitcoin is a peer to peer decentralized payment protocol that was established with the intention to remove third parties and their fees from online transactions between distant parties. Bitcoin's [whitepaper](https://bitcoin.org/bitcoin.pdf) clearly states this to be the only reason why [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), founded it. He wanted to remove centralized bank and third parties from everyday online transactions and make them peer to peer using algorithms and a robust network of computers. The only feature that keeps the network running is computational power of all the 'nodes' or network of computers involved. They are responsible to validate transactions and keep the system 'intruder-proof'. The system is less susceptible to intrusion and mallice is because all the network of computers keeps a copy of all the transactions that happened since the beginning and checks each other copies to see they are all on the same page. In case of an anamoly, the computer(node) with the longest copy of transactions (blockchain - chain of blocks(a block is a transaction(s) copy)), is the one that is given the highest priority and becomes the ideal, because it has managed to keep itself fool-proof for the longest time. It is used to verify all transactions and keeps the system secure and it is the only reason why Bitcoin network has never been hacked from past 14 years and ongoing.
-
+Bitcoin is a peer to peer decentralized payment protocol that was established with the intention to remove third parties and their fees from online transactions between distant parties. 
 
 ![What is Bitcoin?]({{site.baseurl}}/assets/images/post0/facts.png)
+
+Bitcoin's [whitepaper](https://bitcoin.org/bitcoin.pdf) clearly states this to be the only reason why [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), founded it. He wanted to remove centralized bank and third parties from everyday online transactions and make them peer to peer using algorithms and a robust network of computers. The only feature that keeps the network running is computational power of all the 'nodes' or network of computers involved. They are responsible to validate transactions and keep the system 'intruder-proof'. The system is less susceptible to intrusion and mallice is because all the network of computers keeps a copy of all the transactions that happened since the beginning and checks each other copies to see they are all on the same page. In case of an anamoly, the computer(node) with the longest copy of transactions (blockchain - chain of blocks(a block is a transaction(s) copy)), is the one that is given the highest priority and becomes the ideal, because it has managed to keep itself fool-proof for the longest time. It is used to verify all transactions and keeps the system secure and it is the only reason why Bitcoin network has never been hacked from past 14 years and ongoing.
+
+
 
 ## Facts about Bitcoin
 
