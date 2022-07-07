@@ -117,7 +117,10 @@ Bitcoin is a peer to peer decentralized payment protocol that was established wi
 100. [Pay taxes using Bitcoin](#pay-taxes-using-bitcoin)
 
 
+
 ## Bitcoin is digital cash
+
+![Bitcoin](../assets/images/post0/btc1.png)
 
 Bitcoin has value in the digital space and could be used to purchase and sell items. It is similar to physical cash, just that it is only stored online but could be used both online and offline.
 
@@ -135,9 +138,13 @@ Bitcoin is volatile and it's price is constatly changing based on the demand and
 
 ## Bitcoin reached its All Time High on 11 Nov 2021
 
+![Bitcoin price chart](../assets/images/post0/btchart.png)
+
 Bitcoin reached its all time high of $68.692.14 on 11 November in 2021. 
 
 ## Only 2% of addresses have 1 or more Bitcoins
+
+![Bitcoin division by addresses](../assets/images/post0/btcpie.png)
 
 There are 633,008 addresses that have at least 1 BTC (1.68 million coins in total), which is 2.18% of all addresses out there
 
@@ -150,6 +157,9 @@ Bitcoin currently consumes an estimated 150 terawatt-hours of electricity annual
 Satoshi mined more than 22,000 blocks and received more than one million bitcoin in cumulative block rewards for his work. As a result, Satoshi is estimated to hold the largest bitcoin cache, more than 1 million BTC
 
 ## 1 Bitcoin = 100 millon Satoshis
+
+![Bitcoin to Satoshi](../assets/images/post0/btcsat.png)
+[Source](https://en.bitcoinwiki.org/wiki/Satoshi)
 
 There are 100 million satoshis (sats) in one bitcoin, meaning each satoshi is worth 0.00000001 BTC.
 
@@ -170,6 +180,8 @@ In April- 2022, The Central African Republic has become the second country in th
 1 When bitcoin was first mined in 2009, mining one block would earn you 50 BTC. In 2012, this was halved to 25 BTC. By 2016, this was halved again to 12.5 BTC. On May 11, 2020, the reward halved again to 6.25 BTC
 
 ## 9 countries have banned Bitcoin
+
+![Bitcoin ban](../assets/images/post0/btcban.png)
 
 Egypt, Iraq, Qatar, Oman, Morocco, Algeria, Tunisia, Bangladesh, and China have all banned cryptocurrency
 
