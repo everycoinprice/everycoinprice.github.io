@@ -1,15 +1,19 @@
+<script>
+    var purl = window.location.href;
+</script>
+
 <div>
     <!--tweet-->
     <div style="float:left; margin-top: -15px;margin-left: 7px;">
-        <a href="https://www.facebook.com/sharer/sharer.php?u={{canonical_url}}" target="_blank" rel="nofollow"><img src="{{site.baseurl}}/assets/images/social/icon-fb.png" alt="Facebook" width="32px" ></a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{purl}}" target="_blank" rel="nofollow"><img src="{{site.baseurl}}/assets/images/social/icon-fb.png" alt="Facebook" width="32px" ></a>
     </div>
     <!--fb-->
     <div style="float:left; margin-top: -15px;margin-left: 7px;">
-        <a href="http://twitter.com/share?text=Latest blog from everycoinprice&url={{canonical_url}}&hashtags=#crypto#everycoinprice" target="_blank" rel="nofollow"><img src="{{site.baseurl}}/assets/images/social/icon-tw.png" alt="Twitter" width="32px" ></a>
+        <a href="http://twitter.com/share?text=Latest blog from everycoinprice&url={{purl}}&hashtags=#crypto#everycoinprice" target="_blank" rel="nofollow"><img src="{{site.baseurl}}/assets/images/social/icon-tw.png" alt="Twitter" width="32px" ></a>
     </div>
     <!--reddit-->
     <div style="float:left; margin-top: -15px;margin-left: 7px;">
-        <a href="http://www.reddit.com/submit?url={{canonical_url}}" target="_blank" rel="nofollow"><img src="{{site.baseurl}}/assets/images/social/icon-rd.png" alt="Reddit" width="32px" ></a>
+        <a href="http://www.reddit.com/submit?url={{purl}}" target="_blank" rel="nofollow"><img src="{{site.baseurl}}/assets/images/social/icon-rd.png" alt="Reddit" width="32px" ></a>
     </div>
 </div>
 <!-- {{ canonical_url }} -->
