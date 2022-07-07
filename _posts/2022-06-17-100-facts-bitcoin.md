@@ -121,6 +121,7 @@ Bitcoin is a peer to peer decentralized payment protocol that was established wi
 ## Bitcoin is digital cash
 
 ![Bitcoin](../assets/images/post0/btc1.jpeg)
+[Credit](https://unsplash.com/@thoughtcatalog)
 
 Bitcoin has value in the digital space and could be used to purchase and sell items. It is similar to physical cash, just that it is only stored online but could be used both online and offline.
 
