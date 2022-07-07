@@ -120,7 +120,7 @@ Bitcoin is a peer to peer decentralized payment protocol that was established wi
 
 ## Bitcoin is digital cash
 
-![Bitcoin](../assets/images/post0/btc1.png)
+![Bitcoin](../assets/images/post0/btc1.jpeg)
 
 Bitcoin has value in the digital space and could be used to purchase and sell items. It is similar to physical cash, just that it is only stored online but could be used both online and offline.
 
@@ -617,9 +617,15 @@ In 2015, Bhagwan Chaudhry, a University of Calofornia professor nominated Satosh
 
 ## Monument for Bitcoin
 
+![Bitcoin slovenia](../assets/images/post0/bsl.png)
+[Credit- Reuters](https://www.reuters.com/article/us-bitcoin-slovenia-idUSKCN1GP2JQ)
+
 A monument dedicated to Bitcoin blockchain was built in Kranj, Slovenia in 2018
 
 ## Statue of Satoshi Nakamoto
+
+![Statue of Satoshi Nakamoto](../assets/images/post0/bsato.jpg)
+[Source](https://www.statueofsatoshi.com/)
 
 In 2021, a statue dedicated to the founder of Bitcoin, Satoshi Nakamoto was inaugrated at Budapest, Záhony u. 7, 1031 Hungary
 
@@ -636,7 +642,10 @@ A couple in Simferopol in Ukraine have officially been named Bitcoin
 
 ## A physical Bitcoin sent to the moon
 
-BitMEX is minting a physical bitcoin which will be delivered to the moon by Astrobotic (Summer, 2022)
+![Bitmex moon mission](../assets/images/post0/bitm.jpeg)
+[More info](https://www.moonb.tc/)
+
+BitMEX is minting a physical bitcoin which will be delivered to the moon by Astrobotic (Summer, 2022) using their lunar lander 'Peregrine'
 
 ## Fastest asset to hit $1 Trillion
 
