@@ -277,6 +277,8 @@ Satoshi never came to public limelight after Bitcoin started to pick up momentum
 
 ## Official currency of Liberaland is Bitcoin
 
+![Liberland](../assets/images/post0/liber.png)
+
 Liberland is a sovereign state located between Croatia and Serbia on the west bank of the Danube River. It is the first micronation to have accepted Bitcoin back in 2015.
 
 ## Bitcoin uses more electricity than few countries
@@ -288,6 +290,9 @@ Bitcoin, the world's largest cryptocurrency, currently consumes an estimated 150
 Experts are predicting that the remaining bitcoins will be mined by 2140
 
 ## In 2019, the first mortgage was taken using Bitcoin
+
+![Brock Pierce](../assets/images/post0/brock.png)
+[Credit](https://www.geo.tv/latest/396047-crypto-billionaire-broke-pierce-buys-hotel-in-puerto-rico-for-this-whopping-sum)
 
 Brock Pierce has taken out the world's first bitcoin-backed mortgage to buy a home in Amsterdam. The former actor, who rose to fame in the 90's comedy, Mighty Ducks, purchased the $1.2 million property using Bitcoin as collateral
 
@@ -309,6 +314,9 @@ A 2017 report from Chainalysis, a forensics company, estimated that between 2.78
 
 ## You can buy and sell Bitcoin at ATMs
 
+![Bitcoin ATMs map](../assets/images/post0/atmap.png)
+[Credit](https://coinatmradar.com/)
+
 One can exchange Bitcoin for fiat at a number of ATMs a.k.a Automated Teller Machine around the world. Here is the full map - [Coinatmradar](https://coinatmradar.com/)
 
 ## Bitcoin is digital money
@@ -321,13 +329,21 @@ Bitcoin is free software and any developer can contribute to the project. More o
 
 ## One man wants to excavate a landfill to find lost Bitcoins
 
+![James Howells](../assets/images/post0/james.png)
+[Credit](https://www.ladbible.com/news/news-man-claims-he-chucked-out-hard-drive-containing-275m-in-bitcoin-20210708)
+
 James Howells, 35, said he mistakenly put a hard drive with 7,500 bitcoins in the trash while clearing out his home in 2013.He needs permission from his local council to search a garbage dump he believes contains the lost hardware.The Newport City Council has rejected his requests to look through the landfill, citing environmental and funding concerns. [More on the story](https://www.cbsnews.com/news/hard-drive-lost-bitcoin-landfill/#:~:text=CBS%20Saturday%20Morning-,Man%20seeks%20to%20excavate%20landfill%20that%20allegedly%20has,billion%20dollars%20worth%20of%20bitcoin&text=Newport%2C%20a%20seaside%20city%20in,buried%20in%20its%20local%20landfill.)
 
 ## Bitcoin profits are taxed at some places
 
+![crypto tax](../assets/images/post0/ctax.png)
+[Source](https://cryptocurrency-tax.info/)
+
 Bitcoin gains are taxed at most places. Major economies being UK, USA, Italy, Canada, Germany and India. 
 
 ## Bitcoin could be stored in offline wallets
+
+[Harware wallet comparison 🔗](https://www.softwaretestinghelp.com/bitcoin-hardware-wallet/)
 
 Bitcoin could be taken off the grid and stored into hardware wallets like Ledger Nano S. Trezor Model One and Safepal S1
 
@@ -361,6 +377,8 @@ Canada 65.56
 Ranked based on Bitcoin trading volume on exchange
 
 ## Top 5 countries ranked based on Crypto Adoption
+
+![Crypto adoption](../assets/images/post0/cryptoadop.jpeg)
 
 Vietnam 1
 India 0.37
@@ -408,12 +426,15 @@ He sold those entire Bitcoins for $4.2 million as an adult
 
 ## ASIC machines are used to mine Bitcoin in 2022
 
+![Antminer](../assets/images/post0/antmine.png)
+[What to mine display latest ASIC miners profitability](https://whattomine.com/asic)
+
 ASIC a.k.a Application Specific Integrated Circuit are heavy duty power hungry machines that are used to mine Bitcoins today. As mathematical complexity of mining(earning) bitcoins increases, more and more technically advanced machines would take over
 
 ## China leads in Bitcoin mining
 
 Top five locations where Bitcoin is mined are-
-Dalian, China 750 BTC/month - 360,000 TH
+Dalian, China 750 BTC/month - 360,000 TH 
 Genesis mining farm , Reykjavik, Iceland - 1000 GH
 Moscow, Russia - 38PH- 600BTC/month
 Gigawatt, washington, USA - 1.3 PH
@@ -422,6 +443,8 @@ Linthal, Switzerland
 ## Top 5 Bitcoin exchanges
 
 Based on last 5 years data,
+
+![Bitcoin exchanges comparison](../assets/images/post0/btcexc.png)
 
 |Exchange   |  Volume   |  Market Share   | 
 |-----------|-----------|-----------------|
@@ -443,9 +466,14 @@ Unlike fiat money, where currencies like dollars exists in the form of notes, Bi
 
 ## Leading fiat currencies to be exchanged for BTC
 
+![Bitcoin / Fiat exchange pie chart](../assets/images/post0/bfpie.png)
+
 US dollars (85.5%) and Japanese Yen (5%) are the two most popular currencies used in exchange of Bitcoins
 
 ## Top merchants accepting Bitcoin
+
+![Bitcoin map](../assets/images/post0/bmap1.png)
+[Source](https://map.bitcoin.com/)
 
 Starbucks, Virgin Galatic, Tesla, Microsoft, Namecheap, Shopify are some of the top merchants currently accepting Bitcoins as payment
 
@@ -468,6 +496,8 @@ The search queries for the term "Bitcoin" on google peaked in December of 2017
 ## Bitcoin nodes are on every continent
 
 There are 15513 bitcoin nodes in the world as of 2022. 
+
+![Bitcoin node](../assets/images/post0/bnode.png)
 [Bitnodes - source](https://bitnodes.io/)
 
 
@@ -494,6 +524,8 @@ $93 Million can move Bitcoin's price by 1%, As estimated by Bank of America
 
 
 ## 89% of Bitcoin ATMs are in US
+
+![Bitcoin ATMs](../assets/images/post0/batmdist.png)
 
 There are currently 34057 Bitcoin ATMs in United states
 
