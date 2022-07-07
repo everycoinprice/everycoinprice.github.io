@@ -170,6 +170,7 @@ There are 100 million satoshis (sats) in one bitcoin, meaning each satoshi is wo
 ## El Salvador is the first country to adopt Bitcoin as a legal tender
 
 ![El salvador president nayib bukele](../assets/images/post0/el.png)
+[Credit](https://bitcoinmagazine.com/)
 
 <sub><sup>Yuri Cortez/AFP via Getty Images</sup></sub>
 
