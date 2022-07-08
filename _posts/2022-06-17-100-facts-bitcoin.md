@@ -15,7 +15,7 @@ Bitcoin's [whitepaper](https://bitcoin.org/bitcoin.pdf) clearly states this to b
 
 
 
-## Facts about Bitcoin
+## Table of contents
 
 1. [Bitcoin is digital cash](#bitcoin-is-digital-cash)
 2. [Bitcoin is decentralized payment system](#bitcoin-is-decentralized-payment-system)
