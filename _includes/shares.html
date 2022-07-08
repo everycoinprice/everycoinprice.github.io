@@ -2,8 +2,15 @@
 <div>
     <!--tweet-->
     <div style="float:left; margin-top: -15px;margin-left: 7px;">
-        <a href="https://www.facebook.com/sharer/sharer.php?u={% capture url_path %}{{site.url}}{{page.url}}{% endcapture %}" target="_blank" rel="nofollow"><img src="{{site.baseurl}}/assets/images/social/icon-fb.png" alt="Facebook" width="32px" ></a>
+        <div id="sharefb" onclick="share_fb();"><img src="{{site.baseurl}}/assets/images/social/icon-fb.png" alt="Facebook" width="32px" ></div>
     </div>
+    <script>
+        function share_fb() {
+            var window_location_encoded = encodeURI(window.location);
+            var share_link = "https://www.facebook.com/sharer/sharer.php?u="+window_location_encoded;
+            window.open(share_link,'_blank');
+        }
+    </script>
     <!--fb-->
     <div style="float:left; margin-top: -15px;margin-left: 7px;">
         <a href="http://twitter.com/share?text=Latest blog from everycoinprice&url={% capture url_path %}{{site.url}}{{page.url}}{% endcapture %}&hashtags=#crypto#everycoinprice" target="_blank" rel="nofollow"><img src="{{site.baseurl}}/assets/images/social/icon-tw.png" alt="Twitter" width="32px" ></a>
