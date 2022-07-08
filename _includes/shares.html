@@ -1,8 +1,16 @@
 
 <div>
-    <!--tweet-->
+    <!--fb-->
     <div style="float:left; margin-top: -15px;margin-left: 7px;">
-        <div id="sharefb" onclick="share_fb();"><img src="{{site.baseurl}}/assets/images/social/icon-fb.png" alt="Facebook" width="32px" ></div>
+        <div id="sharefb" onclick="share_fb();" style="cursor: pointer;"><img src="{{site.baseurl}}/assets/images/social/icon-fb.png" alt="Facebook" width="32px" ></div>
+    </div>
+    <!--twit-->
+    <div style="float:left; margin-top: -15px;margin-left: 7px;">
+        <div id="sharetw" onclick="share_tw();" style="cursor: pointer;"><img src="{{site.baseurl}}/assets/images/social/icon-tw.png" alt="Twitter" width="32px" ></div>
+    </div>
+    <!--reddit-->
+    <div style="float:left; margin-top: -15px;margin-left: 7px;">
+        <div id="sharere" onclick="share_re();" style="cursor: pointer;"><img src="{{site.baseurl}}/assets/images/social/icon-rd.png" alt="Reddit" width="32px" ></div>
     </div>
     <script>
         function share_fb() {
@@ -10,14 +18,16 @@
             var share_link = "https://www.facebook.com/sharer/sharer.php?u="+window_location_encoded;
             window.open(share_link,'_blank');
         }
+        function share_tw() {
+            var window_location_encoded = encodeURI(window.location);
+            var share_link = "http://twitter.com/share?text='Blog from Everycoinprice'&url="+window_location_encoded+"&hashtags=#crypto,#bitcoin";
+            window.open(share_link,'_blank');
+        }
+        function share_re() {
+            var window_location_encoded = encodeURI(window.location);
+            var share_link = "https://www.reddit.com/submit?url="+window_location_encoded;
+            window.open(share_link,'_blank');
+        }
     </script>
-    <!--fb-->
-    <div style="float:left; margin-top: -15px;margin-left: 7px;">
-        <a href="http://twitter.com/share?text=Latest blog from everycoinprice&url={% capture url_path %}{{site.url}}{{page.url}}{% endcapture %}&hashtags=#crypto#everycoinprice" target="_blank" rel="nofollow"><img src="{{site.baseurl}}/assets/images/social/icon-tw.png" alt="Twitter" width="32px" ></a>
-    </div>
-    <!--reddit-->
-    <div style="float:left; margin-top: -15px;margin-left: 7px;">
-        <a href="http://www.reddit.com/submit?url={% capture url_path %}{{site.url}}{{page.url}}{% endcapture %}" target="_blank" rel="nofollow"><img src="{{site.baseurl}}/assets/images/social/icon-rd.png" alt="Reddit" width="32px" ></a>
-    </div>
 </div>
 <!-- {{ canonical_url }} -->
