@@ -6,8 +6,6 @@ categories: [ bitcoin, crypto ]
 image: assets/images/bitcoin-1.png
 ---
 
-### What is Bitcoin?
-
 Bitcoin is a peer to peer decentralized payment protocol that was established with the intention to remove third parties and their fees from online transactions between distant parties. 
 
 ![What is Bitcoin?]({{site.baseurl}}/assets/images/post0/facts.png)
