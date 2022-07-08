@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "100 facts about Bitcoin in 2022"
+description: "Bitcoin is more than a peer to peer currency. It is a revolution in the online payment space."
 author: ash
 categories: [ bitcoin, crypto ]
 image: assets/images/bitcoin-1.png
