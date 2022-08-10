@@ -181,7 +181,7 @@ In April- 2022, The Central African Republic has become the second country in th
 
 ## You can earn Bitcoin through Mining
 
-1 When bitcoin was first mined in 2009, mining one block would earn you 50 BTC. In 2012, this was halved to 25 BTC. By 2016, this was halved again to 12.5 BTC. On May 11, 2020, the reward halved again to 6.25 BTC
+When bitcoin was first mined in 2009, mining one block would earn you 50 BTC. In 2012, this was halved to 25 BTC. By 2016, this was halved again to 12.5 BTC. On May 11, 2020, the reward halved again to 6.25 BTC
 
 ## 9 countries have banned Bitcoin
 
