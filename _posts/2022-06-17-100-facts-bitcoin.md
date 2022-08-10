@@ -344,6 +344,7 @@ James Howells, 35, said he mistakenly put a hard drive with 7,500 bitcoins in th
 [Source](https://cryptocurrency-tax.info/)
 
 Bitcoin gains are taxed at most places. Major economies being UK, USA, Italy, Canada, Germany and India. 
+For more information about [cryptocurrency in Canada](https://piggybank.ca/cryptocurrency), PiggyBank is a great resource
 
 ## Bitcoin could be stored in offline wallets
 
