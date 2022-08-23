@@ -44,7 +44,7 @@ Let's check out the complete list
 
 * Bitcoin addresses have reached the **1 Billion** address in count, in 2022
 
-* India has the most Bitcoin holders at over **10 million active addresses** while US tops the list of country with the maximum Bitcoin holding
+* India has the most Bitcoin holders at over **100 million active addresses** while US tops the list of country with the maximum Bitcoin holding
 
 ## Highlights
 
