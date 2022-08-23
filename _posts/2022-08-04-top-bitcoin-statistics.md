@@ -108,7 +108,7 @@ Bitcoin searches peaked during December, 2017
 
 6.25 Bitcoins are generated for every block mined and it takes average of 10 minutes to mine a single block. That means that
 
-60/10*24*6.25 = 900 Bitcoins are generated every day
+60/10 X 24 X 6.25 = 900 Bitcoins are generated every day
 
 An average of more than 900 Bitcoins are mined every day
 
