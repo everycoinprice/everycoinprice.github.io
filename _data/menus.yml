@@ -2,17 +2,14 @@
 topmenu:
 
 - title: Home
+  url: "https://everycoinprice.com"
+  external: true
+  
+- title: Blog
   url: ""
-
-- title: About
-  url: "about/"
-
-- title: Contact
-  url: "contact/"
-
-- title: Crypto Prices > 
-  url: https://everycoinprice.com
-  class: "ml-2 btn btn-dark text-white px-3"
+  
+- title: Shop
+  url: "https://everycoinprice.threadless.com/designs/buy-bitcoin-white"
   external: true
 
 # Footer Menu
@@ -27,6 +24,7 @@ footermenu:
 - title: Contact
   url: "contact/"
 
-- title: Crypto Prices >
+- title: Prices
   url: https://everycoinprices.com
   external: true
+

@@ -1,0 +1,483 @@
+# Post TOC
+post0:
+
+- title: Bitcoin is digital cash
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-is-digital-cash"
+
+- title: Bitcoin is decentralized payment system
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-is-decentralized-payment-system"
+
+- title: All transactions are Anonymous
+  base: "100-facts-bitcoin"
+  url: "#all-transactions-are-anonymous"
+
+- title: Bitcoin is volatile
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-is-volatile"
+
+- title: Bitcoin reached its All Time High on 11 Nov 2021
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-reached-its-all-time-high-on-11-nov-2021"
+
+- title: Only 2% of addresses have 1 or more Bitcoins
+  base: "100-facts-bitcoin"
+  url: "#only-2%-of-addresses-have-1-or-more-bitcoins"
+
+- title: Bitcoin network consumes lot of electricity
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-network-consumes-lot-of-electricity"
+
+- title: Satoshi Nakamoti hodls the maximum Bitcoins
+  base: "100-facts-bitcoin"
+  url: "#satoshi-nakamoti-hodls-the-maximum-bitcoins"
+
+- title: 1 Bitcoin = 100 millon Satoshis
+  base: "100-facts-bitcoin"
+  url: "#1-bitcoin-100-millon-satoshis"
+
+- title: El Salvador is the first country to adopt Bitcoin as a legal tender
+  base: "100-facts-bitcoin"
+  url: "#el-salvador-is-the-first-country-to-adopt-bitcoin-as-a-legal-tender"
+
+- title: As of 2022, two countries have Bitcoin as legal tender
+  base: "100-facts-bitcoin"
+  url: "#as-of-2022-two-countries-have-bitcoin-as-legal-tender"
+
+- title: You can earn Bitcoin through Mining
+  base: "100-facts-bitcoin"
+  url: "#you-can-earn-bitcoin-through-mining"
+
+- title: 9 countries have banned Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#9-countries-have-banned-bitcoin"
+
+- title: Only 21 Million Bitcoin would ever be there
+  base: "100-facts-bitcoin"
+  url: "#only-21-million-bitcoin-would-ever-be-there"
+
+- title: Bitcoin network has more computational power than the best supercomputer
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-network-has-more-computational-power-than-the-best-supercomputer"
+
+- title: Satoshis are smaller units of Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#satoshis-are-smaller-units-of-bitcoin"
+
+- title: You can buy things with Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#you-can-buy-things-with-bitcoin"
+
+- title: 10,000 Bitcoins were spent to buy pizza in 2010
+  base: "100-facts-bitcoin"
+  url: "#10000-bitcoins-were-spent-to-buy-pizza-in-2010"
+
+- title: Keep your bitcoins in wallets or exchanges
+  base: "100-facts-bitcoin"
+  url: "#keep-your-bitcoins-in-wallets-or-exchanges"
+
+- title: First version of Bitcoin was released in 2009
+  base: "100-facts-bitcoin"
+  url: "#first-version-of-bitcoin-was-released-in-2009"
+
+- title: Bitcoin rewards are halved every 210,000 blocks
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-rewards-are-halved-every-210000-blocks"
+
+- title: Bitcoin ledger is public
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-ledger-is-public"
+
+- title: There is no central storage. ledger is distributed
+  base: "100-facts-bitcoin"
+  url: "#there-is-no-central-storage-ledger-is-distributed"
+
+- title: There is no central authority, managing it
+  base: "100-facts-bitcoin"
+  url: "#there-is-no-central-authority-managing-it"
+
+- title: Anybody can create a new bitcoin address
+  base: "100-facts-bitcoin"
+  url: "#anybody-can-create-a-new-bitcoin-address"
+
+- title: Anybody can initiate a transaction
+  base: "100-facts-bitcoin"
+  url: "#anybody-can-initiate-a-transaction"
+
+- title: Issuance of new bitcoin is under no one's control
+  base: "100-facts-bitcoin"
+  url: "#issuance-of-new-bitcoin-is-under-no-ones-control"
+
+- title: Anyone can become a miner
+  base: "100-facts-bitcoin"
+  url: "#anyone-can-become-a-miner"
+
+- title: No government controls Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#no-government-controls-bitcoin"
+
+- title: Bitcoin.org domain was registered on 18 August, 2008
+  base: "100-facts-bitcoin"
+  url: "#bitcoinorg-domain-was-registered-on-18-august-2008"
+
+- title: Bitcoin is open source
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-is-open-source"
+
+- title: First transaction was received by Hal Finney
+  base: "100-facts-bitcoin"
+  url: "#first-transaction-was-received-by-hal-finney"
+
+- title: Symbol for Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#symbol-for-bitcoin"
+
+- title: Term HODL is used for not selling
+  base: "100-facts-bitcoin"
+  url: "#term-hodl-is-used-for-not-selling"
+
+- title: Satoshi, the original creator is unknown
+  base: "100-facts-bitcoin"
+  url: "#satoshi-the-original-creator-is-unknown"
+
+- title: Official currency of Liberaland is Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#official-currency-of-liberaland-is-bitcoin"
+
+- title: Bitcoin uses more electricity than few countries
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-uses-more-electricity-than-few-countries"
+
+- title: Last Bitcoin will be mined in 2140
+  base: "100-facts-bitcoin"
+  url: "#last-bitcoin-will-be-mined-in-2140"
+
+- title: In 2019, the first mortgage was taken using Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#in-2019-the-first-mortgage-was-paid-in-bitcoin"
+
+- title: BTC is the short form for Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#btc-is-the-short-form-for-bitcoin"
+
+- title: There are more than 50,000 Bitcoin millionaires
+  base: "100-facts-bitcoin"
+  url: "#there-are-more-than-50000-bitcoin-millionaires"
+
+- title: You can buy a Bitcoin for less than $1
+  base: "100-facts-bitcoin"
+  url: "#you-can-buy-a-bitcoin-for-less-than-1"
+
+- title: 20% of Bitcoin is lost forever
+  base: "100-facts-bitcoin"
+  url: "#20-of-bitcoin-is-lost-forever"
+
+- title: You can buy and sell Bitcoin at ATMs
+  base: "100-facts-bitcoin"
+  url: "#you-can-buy-and-sell-bitcoin-at-atms"
+
+- title: Bitcoin is digital money
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-is-digital-money"
+
+- title: Anyone can be part of Bitcoin development
+  base: "100-facts-bitcoin"
+  url: "#anyone-can-be-part-of-bitcoin-development"
+
+- title: One man wants to excavate a landfill to find lost Bitcoins
+  base: "100-facts-bitcoin"
+  url: "#one-man-wants-to-excavate-a-landfill-to-find-lost-bitcoins"
+
+- title: Bitcoin profits are taxed at some places
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-profits-are-taxed-at-some-places"
+
+- title: Bitcoin could be stored in offline wallets
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-could-be-stored-in-offline-wallets"
+
+- title: You can trade bitcoin without an exchange
+  base: "100-facts-bitcoin"
+  url: "#you-can-trade-bitcoin-without-an-exchange"
+
+- title: Bitcoin miners have massive electricity spenditure
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-miners-have-massive-electricity-spenditure"
+
+- title: Some countries don't tax bitcoin yet
+  base: "100-facts-bitcoin"
+  url: "#some-countries-dont-tax-bitcoin-yet"
+
+- title: Top 10 Crypto countries are not what you expect
+  base: "100-facts-bitcoin"
+  url: "#top-10-crypto-countries-are-not-what-you-expect"
+
+- title: Top 5 countries ranked based on Crypto Adoption
+  base: "100-facts-bitcoin"
+  url: "#top-5-countries-ranked-based-on-crypto-adoption"
+
+- title: Bitcoin market cap dominance is at 42%
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-market-cap-dominance-is-at-42"
+
+- title: Top bitcoin twitter accounts to follow
+  base: "100-facts-bitcoin"
+  url: "#top-bitcoin-twitter-accounts-to-follow"
+
+- title: Only 5 addresses hodls the most Bitcoins
+  base: "100-facts-bitcoin"
+  url: "#only-5-addresses-hodls-the-most-bitcoins"
+
+- title: Vancouver installed the worlds first Bitcoin ATM
+  base: "100-facts-bitcoin"
+  url: "#vancouver-installed-the-worlds-first-bitcoin-atm"
+
+- title: Before 2010, you could mine Bitcoin on your laptop
+  base: "100-facts-bitcoin"
+  url: "#before-2010-you-could-mine-bitcoin-on-your-laptop"
+
+- title: The Bitcoin network processes more than 270,000 transactions per day
+  base: "100-facts-bitcoin"
+  url: "#the-bitcoin-network-processes-more-than-270000-transactions-per-day"
+
+- title: A kid won 127 BTC by completing surveys in 2011
+  base: "100-facts-bitcoin"
+  url: "#a-kid-won-127-btc-by-completing-surveys-in-2011"
+
+- title: ASIC machines are used to mine Bitcoin in 2022
+  base: "100-facts-bitcoin"
+  url: "#asic-machines-are-used-to-mine-bitcoin-in-2022"
+
+- title: China leads in Bitcoin mining
+  base: "100-facts-bitcoin"
+  url: "#china-leads-in-bitcoin-mining"
+
+- title: Top 5 Bitcoin exchanges
+  base: "100-facts-bitcoin"
+  url: "#top-5-bitcoin-exchanges"
+
+- title: Yougest bitcoin millionaire
+  base: "100-facts-bitcoin"
+  url: "#yougest-bitcoin-millionaire"
+
+- title: Bitcoin notes doesnot exists
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-notes-doesnot-exists"
+
+- title: Leading fiat currencies to be exchanged for BTC
+  base: "100-facts-bitcoin"
+  url: "#leading-fiat-currencies-to-be-exchanged-for-btc"
+
+- title: Top merchants accepting Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#top-merchants-accepting-bitcoin"
+
+- title: Lowest recorded BTC price
+  base: "100-facts-bitcoin"
+  url: "#lowest-recorded-btc-price"
+
+- title: Most of Bitcoin wallets are inactive
+  base: "100-facts-bitcoin"
+  url: "#most-of-bitcoin-wallets-are-inactive"
+
+- title: Bitcoin interest peaked in 2017
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-interest-peaked-in-2017"
+
+- title: Bitcoin nodes are on every continent
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-nodes-are-on-every-continent"
+  
+- title: United states runs the maximum number of nodes
+  base: "100-facts-bitcoin"
+  url: "#united-states-runs-the-maximum-number-of-nodes"
+
+- title: 90% Bitcoin has been mined
+  base: "100-facts-bitcoin"
+  url: "#90-bitcoin-has-been-mined"
+
+- title: Bitcoin market cap hit $1 Trillion twice
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-market-cap-hit-dollar1-trillion-twice"
+
+- title: Moving Bitcoin's price by 1%
+  base: "100-facts-bitcoin"
+  url: "#moving-bitcoins-price-by-1"
+  
+- title: 89% of Bitcoin ATMs are in US
+  base: "100-facts-bitcoin"
+  url: "#89-of-bitcoin-atms-are-in-us"
+
+- title: Notable people who get paid in Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#notable-people-who-get-paid-in-bitcoin"
+
+- title: Number of lines of code for Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#number-of-lines-of-code-for-bitcoin"
+
+- title: Copies of Bitcoin's code
+  base: "100-facts-bitcoin"
+  url: "#copies-of-bitcoins-code"
+
+- title: Bitcoin has been sent to space
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-has-been-sent-to-space"
+
+- title: FBI seized 144,000 Bitcoins in 2013
+  base: "100-facts-bitcoin"
+  url: "#fbi-seized-144000-bitcoins-in-2013"
+
+- title: Bitcoin fails as a currency
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-fails-as-a-currency"
+
+- title: Transaction cannot be reversed
+  base: "100-facts-bitcoin"
+  url: "#transaction-cannot-be-reversed"
+
+- title: Bitcoin transactions are cost very less
+  base: "100-facts-bitcoin"
+  url: "#bitcoin-transactions-are-cost-very-less"
+
+- title: Top Bitcoin debit cards
+  base: "100-facts-bitcoin"
+  url: "#top-bitcoin-debit-cards"
+
+- title: You can earn bitcoin playing games
+  base: "100-facts-bitcoin"
+  url: "#you-can-earn-bitcoin-playing-games"
+
+- title: These two survived on Bitcoin for 90 days
+  base: "100-facts-bitcoin"
+  url: "#these-two-survived-on-bitcoin-for-90-days"
+
+- title: Tax exemption in Belgium
+  base: "100-facts-bitcoin"
+  url: "#tax-exemption-in-belgium"
+
+- title: Switzerland stance on Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#switzerland-stance-on-bitcoin"
+
+- title: A man accepted Bitcoin in exchange of his house
+  base: "100-facts-bitcoin"
+  url: "#a-man-accepted-bitcoin-in-exchange-of-his-house"
+
+- title: Private keys are the only access to Bitcoins
+  base: "100-facts-bitcoin"
+  url: "#private-keys-are-the-only-access-to-bitcoins"
+
+- title: Satoshi was nominated for Nobel prize in Economics
+  base: "100-facts-bitcoin"
+  url: "#satoshi-was-nominated-for-nobel-prize-in-economics"
+
+- title: Monument for Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#monument-for-bitcoin"
+
+- title: Statue of Satoshi Nakamoto
+  base: "100-facts-bitcoin"
+  url: "#statue-of-satoshi-nakamoto"
+
+- title: Three types of Bitcoin addresses
+  base: "100-facts-bitcoin"
+  url: "#three-types-of-bitcoin-addresses"
+
+- title: A kid named after "Bitcoin"
+  base: "100-facts-bitcoin"
+  url: "#a-kid-named-after-bitcoin"
+
+- title: A physical Bitcoin sent to the moon
+  base: "100-facts-bitcoin"
+  url: "#a-physical-bitcoin-sent-to-the-moon"
+
+- title: Fastest asset to hit $1 Trillion
+  base: "100-facts-bitcoin"
+  url: "#fastest-asset-to-hit-$1-trillion"
+
+- title: Pay taxes using Bitcoin
+  base: "100-facts-bitcoin"
+  url: "#pay-taxes-using-bitcoin"
+
+post1:
+
+- title: Bitcoin vs Gold
+  base: "is-bitcoin-good-investment"
+  url: "#bitcoin-vs-gold"
+
+- title: Bitcoin vs Ethereum
+  base: "is-bitcoin-good-investment"
+  url: "#bitcoin-vs-ethereum"
+
+
+post2:
+
+- title: Top Statistics (Editor's picks)
+  base: "top-bitcoin-statistics"
+  url: "#top-statistics-editors-picks"
+
+- title: Is Bitcoin a good investment?
+  base: "top-bitcoin-statistics"
+  url: "#is-bitcoin-a-good-investment"
+
+- title: How long it takes to mine 1 Bitcoin?
+  base: "top-bitcoin-statistics"
+  url: "#how-long-it-takes-to-mine-1-bitcoin"
+
+- title: Is Bitcoin eco friendly?
+  base: "top-bitcoin-statistics"
+  url: "#is-bitcoin-eco-friendly"
+
+- title: How can i get bitcoin for free?
+  base: "top-bitcoin-statistics"
+  url: "#how-can-i-get-bitcoin-for-free"
+
+- title: What is the minimum amount to invest in Bitcoin?
+  base: "top-bitcoin-statistics"
+  url: "#what-is-the-minimum-amount-to-invest-in-bitcoin"
+
+- title: Who owns the most bitcoins?
+  base: "top-bitcoin-statistics"
+  url: "#who-owns-the-most-bitcoins"
+
+- title: How much does Bitcoin costs?
+  base: "top-bitcoin-statistics"
+  url: "#how-much-does-bitcoin-costs"
+
+- title: What happens when Bitcoin hits zero?
+  base: "top-bitcoin-statistics"
+  url: "#what-happens-when-bitcoin-hits-zero"
+
+- title: Can i sell my Bitcoins?
+  base: "top-bitcoin-statistics"
+  url: "#can-i-sell-my-bitcoins"
+
+- title: Will Bitcoin ever run out?
+  base: "top-bitcoin-statistics"
+  url: "#will-bitcoin-ever-run-out"
+
+- title: How long does it take to make money from Bitcoin?
+  base: "top-bitcoin-statistics"
+  url: "#how-long-does-it-take-to-make-money-from-bitcoin"
+
+- title: How do i purchase a Bitcoin?
+  base: "top-bitcoin-statistics"
+  url: "#how-do-i-purchase-a-bitcoin"
+
+- title: Is Bitcoin legal or illegal?
+  base: "top-bitcoin-statistics"
+  url: "#is-bitcoin-legal-or-illegal"
+
+- title: Which countries uses bitcoin?
+  base: "top-bitcoin-statistics"
+  url: "#which-countries-uses-bitcoin"
+
+- title: What is the adoption rate of Bitcoin?
+  base: "top-bitcoin-statistics"
+  url: "#what-is-the-adoption-rate-of-bitcoin"
+
+- title: Bonus
+  base: "top-bitcoin-statistics"
+  url: "#bonus"

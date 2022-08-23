@@ -1,4 +1,4 @@
-<div class="sidebar sticky-top">      
+<div class="sidebar" style="min-height: 100%;">      
     <div class="sidebar-section">
         {% include shares.html %}
     </div>  
@@ -10,5 +10,36 @@
         <h5><span>Sponsored</span></h5>
         <!-- <img src="{{site.baseurl}}/assets/images/ad.png"> -->
         <iframe data-aa='2028691' src='//ad.a-ads.com/2028691?size=300x600' style='width:300px; height:600px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+    </div>
+
+    <div class="sidebar-section sticky-top">
+        {% if page.id %}
+
+        <h5><span>Table of Contents</span></h5>
+        <ol id="listofContents">
+                {% if page.id == '/100-facts-bitcoin' %}
+                    {% for item in site.data.toc.post0 %}
+                        <li>
+                            <a class="{% if item.class %}{{item.class}}{% endif %}" href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.base}}/{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+                        </li>
+                    {% endfor %}
+                {% endif %}
+                {% if page.id == '/is-bitcoin-good-investment' %}
+                    {% for item in site.data.toc.post1 %}
+                        <li>
+                            <a class="{% if item.class %}{{item.class}}{% endif %}" href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.base}}/{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+                        </li>
+                    {% endfor %}
+                {% endif %}
+                {% if page.id == '/top-bitcoin-statistics' %}
+                    {% for item in site.data.toc.post2 %}
+                        <li>
+                            <a class="{% if item.class %}{{item.class}}{% endif %}" href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.base}}/{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+                        </li>
+                    {% endfor %}
+                {% endif %}
+        </ol>
+        {% endif %}
+
     </div>
 </div>
