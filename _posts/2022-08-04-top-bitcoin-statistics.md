@@ -482,7 +482,7 @@ Bitcoin network settled $62 trillion worth of bitcoin in 2021, which is 3 times 
 
 #### Ranking countries by Bitcoin owners
 
-India tops the list with over 10 Million bitcoin holders which is 7.3% of the population
+India tops the list with over 100 Million bitcoin holders which is 7.3% of the population
 
 ![Bitcoin holders vs Countries](../assets/images/post2/bhold.png)
 
