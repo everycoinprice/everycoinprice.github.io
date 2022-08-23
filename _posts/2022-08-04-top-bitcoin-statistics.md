@@ -46,6 +46,23 @@ Let's check out the complete list
 
 * India has the most Bitcoin holders at over **10 million active addresses** while US tops the list of country with the maximum Bitcoin holding
 
+## Highlights
+
+* [Is Bitcoin a good investment?](#is-bitcoin-a-good-investment)
+
+* [Is Bitcoin eco friendly?](#is-bitcoin-eco-friendly)
+
+* [How can i get bitcoin for free?](how-can-i-get-bitcoin-for-free)
+
+* [What happens when Bitcoin hits zero?](#what-happens-when-bitcoin-hits-zero)
+
+* [How long does it take to make money from Bitcoin?](#how-long-does-it-take-to-make-money-from-bitcoin)
+
+* [What is the adoption rate of Bitcoin?](#what-is-the-adoption-rate-of-bitcoin)
+
+* [Bonus #All Time High](#bonus)
+
+
 ## Is Bitcoin a good investment?
 
 #### Bitcoin vs Gold
@@ -168,6 +185,10 @@ There are 19.1 Million Bitcoins in circulation as of 2022. That means around 1.9
 Source: [Everycoinprice](https://everycoinprice.com/?symbol=BTC&interval=1day)
 
 ## How can i get bitcoin for free?
+
+There are giveaways, tournaments and casinos which giveaways Bitcoins in competitions or just for free to random winners
+
+Some of the known wins are
 
 #### Largest Casino Win
 
