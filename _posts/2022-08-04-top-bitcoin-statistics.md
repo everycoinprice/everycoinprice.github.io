@@ -22,7 +22,7 @@ Let's check out the complete list
 
 * If you had invested $1 in Bitcoin in 2009, You would have **$250,000** now
 
-* **3500** Bitcoins are generated every day
+* **900** Bitcoins are generated every day
 
 * Largest transaction in Bitcoin has been **500,000 BTC** sent in 2011
 
@@ -106,7 +106,11 @@ Bitcoin searches peaked during December, 2017
 
 #### New coins
 
-An average of more than 3500 Bitcoins are mined every day
+6.25 Bitcoins are generated for every block mined and it takes average of 10 minutes to mine a single block. That means that
+
+60/10*24*6.25 = 900 Bitcoins are generated every day
+
+An average of more than 900 Bitcoins are mined every day
 
 #### Largest Bitcoin transaction
 
@@ -533,5 +537,6 @@ Bitcoin transaction fees ranged around $1-$2 per transaction in mid - 2022
 
 Bitcoin blockchain size is 434.05 GB with 749,822 blocks mined
 
+## References
 
-Sources: [Coinmarketcap](https://coinmarketcap.com/charts/), [Statista](https://www.statista.com/statistics/647523/worldwide-bitcoin-blockchain-size/), [Blockchain](https://www.blockchain.com/charts/n-transactions), [Blockchain](https://www.blockchain.com/charts/trade-volume), [Blockchain](https://www.blockchain.com/charts/fees-usd-per-transaction), [digiconomist](https://digiconomist.net/bitcoin-energy-consumption), [digiconomist](https://digiconomist.net/bitcoin-energy-consumption), [Statista](https://www.statista.com/chart/7566/number-of-bitcoin-atms-by-country/), [Statista](https://www.statista.com/chart/27575/public-companies-with-most-bitcoins-on-balance-sheet/), [Google](https://trends.google.com/trends/explore?date=all&q=bitcoin), [Blockchain](https://www.blockchain.com/charts/miners-revenue), [Bitinfocharts](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html), [Bitinfocharts](https://bitinfocharts.com/bitcoin/address/34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo), [Bitcoinity](https://data.bitcoinity.org/markets/volume/all?c=e&t=b), [BTC](https://explorer.btc.com/stats/pool), [Nasdaq](https://data.nasdaq.com/data/BCHAIN/ATRCT-bitcoin-median-transaction-confirmation-time), [Blockchain](https://www.blockchain.com/charts/hash-rate), [Coindesk](https://www.coindesk.com/price/bitcoin/), [Coindance](https://coin.dance/stats), [Coinmarketcap](https://coinmarketcap.com/legal-tender-countries/), [Statista](https://www.statista.com/statistics/647374/worldwide-blockchain-wallet-users/), [Woobull](https://charts.woobull.com/bitcoin-vs-gold/), [Nasdaq](https://www.nasdaq.com/articles/bitcoin-vastly-outperformed-gold-and-sp-500-over-the-past-decade), [Cryptopotato](https://cryptopotato.com/google-invests-1b-in-bitcoin-futures-provider-cme-group/), [Bitcoinist](https://bitcoinist.com/google-invested-1-billion-crypto-focused-companies/), [Bitcoinist](https://bitcoinist.com/google-analytics-bitcoin-demographics/), [Documenting Bitcoin](https://twitter.com/DocumentingBTC), [StarCraft tournament](https://tl.net/forum/bw-tournaments/190866-aov-iccup-starleague), [Chainanalysis](https://blog.chainalysis.com/reports/2021-global-crypto-adoption-index/), [BitcoinTalk](https://bitcointalk.org/index.php?topic=5046765.0), [BitcoinTalk 2](https://bitcointalk.org/index.php?topic=3223653.0), [c-sharpcorner](https://www.c-sharpcorner.com/article/top-10-countries-with-the-most-cryptocurrency-holders/), [Coinmarketcap](https://coinmarketcap.com/rankings/exchanges/)
+Sources: [Coinmarketcap](https://coinmarketcap.com/charts/), [Statista](https://www.statista.com/statistics/647523/worldwide-bitcoin-blockchain-size/), [Blockchain](https://www.blockchain.com/charts/n-transactions), [Blockchain](https://www.blockchain.com/charts/trade-volume), [Blockchain](https://www.blockchain.com/charts/fees-usd-per-transaction), [digiconomist](https://digiconomist.net/bitcoin-energy-consumption), [digiconomist](https://digiconomist.net/bitcoin-energy-consumption), [Statista](https://www.statista.com/chart/7566/number-of-bitcoin-atms-by-country/), [Statista](https://www.statista.com/chart/27575/public-companies-with-most-bitcoins-on-balance-sheet/), [Google](https://trends.google.com/trends/explore?date=all&q=bitcoin), [Blockchain](https://www.blockchain.com/charts/miners-revenue), [Bitinfocharts](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html), [Bitinfocharts](https://bitinfocharts.com/bitcoin/address/34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo), [Bitcoinity](https://data.bitcoinity.org/markets/volume/all?c=e&t=b), [BTC](https://explorer.btc.com/stats/pool), [Nasdaq](https://data.nasdaq.com/data/BCHAIN/ATRCT-bitcoin-median-transaction-confirmation-time), [Blockchain](https://www.blockchain.com/charts/hash-rate), [Coindesk](https://www.coindesk.com/price/bitcoin/), [Coindance](https://coin.dance/stats), [Coinmarketcap](https://coinmarketcap.com/legal-tender-countries/), [Statista](https://www.statista.com/statistics/647374/worldwide-blockchain-wallet-users/), [Woobull](https://charts.woobull.com/bitcoin-vs-gold/), [Nasdaq](https://www.nasdaq.com/articles/bitcoin-vastly-outperformed-gold-and-sp-500-over-the-past-decade), [Cryptopotato](https://cryptopotato.com/google-invests-1b-in-bitcoin-futures-provider-cme-group/), [Bitcoinist](https://bitcoinist.com/google-invested-1-billion-crypto-focused-companies/), [Bitcoinist](https://bitcoinist.com/google-analytics-bitcoin-demographics/), [Documenting Bitcoin](https://twitter.com/DocumentingBTC), [StarCraft tournament](https://tl.net/forum/bw-tournaments/190866-aov-iccup-starleague), [Chainanalysis](https://blog.chainalysis.com/reports/2021-global-crypto-adoption-index/), [BitcoinTalk](https://bitcointalk.org/index.php?topic=5046765.0), [BitcoinTalk 2](https://bitcointalk.org/index.php?topic=3223653.0), [c-sharpcorner](https://www.c-sharpcorner.com/article/top-10-countries-with-the-most-cryptocurrency-holders/), [Coinmarketcap](https://coinmarketcap.com/rankings/exchanges/), [Bitmover](https://bitcointalk.org/index.php?action=profile;u=1554927)
