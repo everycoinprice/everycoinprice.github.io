@@ -481,3 +481,7 @@ post2:
 - title: Bonus
   base: "top-bitcoin-statistics"
   url: "#bonus"
+
+- title: References
+  base: "top-bitcoin-statistics"
+  url: "#references"
