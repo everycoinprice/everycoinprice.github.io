@@ -110,7 +110,7 @@ Bitcoin searches peaked during December, 2017
 
 60/10 X 24 X 6.25 = 900 Bitcoins are generated every day
 
-An average of more than 900 Bitcoins are mined every day
+Average of 900 Bitcoins are mined every day
 
 #### Largest Bitcoin transaction
 
