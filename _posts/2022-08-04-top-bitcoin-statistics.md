@@ -52,7 +52,7 @@ Let's check out the complete list
 
 * [Is Bitcoin eco friendly?](#is-bitcoin-eco-friendly)
 
-* [How can i get bitcoin for free?](how-can-i-get-bitcoin-for-free)
+* [How can i get bitcoin for free?](#how-can-i-get-bitcoin-for-free)
 
 * [What happens when Bitcoin hits zero?](#what-happens-when-bitcoin-hits-zero)
 
