@@ -24,7 +24,7 @@ Let's check out the complete list
 
 * **900** Bitcoins are generated every day
 
-* Largest transaction in Bitcoin has been **500,000 BTC** sent in 2011
+* Largest transaction in Bitcoin has been **550,000 BTC**, sent in 2011
 
 * Bitcoin miner's collectively make **$30 million every day**
 
@@ -114,7 +114,7 @@ Average of 900 Bitcoins are mined every day
 
 #### Largest Bitcoin transaction
 
-The largest transaction in Bitcoin is 500,000.00 BTC sent in 2011 in a single transaction. Thia transaction could be found on the [blockchain](https://www.blockchain.com/btc/tx/29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf)
+The largest transaction in Bitcoin is 550,000.00 BTC sent in 2011 in a single transaction. Thia transaction could be found on the [blockchain](https://www.blockchain.com/btc/tx/29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf)
 
 
 
